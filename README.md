@@ -3,9 +3,9 @@ Grupo de Telegram https://goo.gl/fzI3qB
 ¡Hola a todos!
 
 Bienvenidos al grupo de Telegram de Floss Panamá.
-Este grupo está abierto a todo el mundo y en él se hablan temas
-que tienen que ver con la comunidad FLOSS panameña, se preguntan
-dudas y se intercambia información.
+
+Este grupo está abierto a todo el mundo y en él se hablan temas que tienen que
+ver con la comunidad FLOSS panameña, se preguntan dudas y se intercambia información.
 
 Algunos consejos y normas para empezar:
 * Preséntate cuando llegues :)
@@ -21,6 +21,6 @@ correo: comunidad@listas.floss-pa.net
 Material de ayuda que puedes leer:
 * NetEtiquette: http://goo.gl/6wUDcZ
 * Como hacer preguntas de manera inteligente: http://goo.gl/882Yvy
-* La web de la asociación es http://floss-pa.org
+* La web de la asociación es http://floss-pa.net
 
 ¡Disfruta del grupo!
