@@ -1,0 +1,15 @@
+Son personas o empresas que colaboran económicamente con el evento.
+Se solicita a entidades publicas o privadas con el fin de darle
+jerarquía al evento.
+
+Auspicio:
+- Universidades. UIP. UDI, UTP.
+- Gobierno: Gobernación. Autoridad de Turismo. Alcaldía.
+- Empresas privadas.
+
+Armar una propuesta de participación.
+- Rentar un stand.
+- Participar en la agenda del evento y mostrar sus productos.
+- Colocar el logo de la empresa dentro del flyer y en la web.
+- Pagar alguna necesidad del evento.
+  - Impresión de documentos. Audiovisual. Almuerzo. Fiesta post evento.
